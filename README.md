@@ -2,6 +2,8 @@
 
 Beautiful inspired material themes for Alfred
 
+[Download all themes](https://github.com/deerawan/alfred-material-themes/archive/master.zip)
+
 ## Light Themes
 
 ### Material Tosca
