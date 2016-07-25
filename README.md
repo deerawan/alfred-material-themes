@@ -43,3 +43,11 @@ Beautiful inspired material themes for Alfred
 ### Material Blue Dark
 
 ![Material Blue Dark](https://github.com/deerawan/alfred-material-themes/raw/master/images/material-blue-dark.png)
+
+### Material Blue Grey Dark
+
+![Material Blue Grey Dark](https://github.com/deerawan/alfred-material-themes/raw/master/images/material-blue-grey-dark.png)
+
+### Material Red Dark
+
+![Material Red Dark](https://github.com/deerawan/alfred-material-themes/raw/master/images/material-red-dark.png)
