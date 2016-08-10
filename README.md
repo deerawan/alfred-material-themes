@@ -34,6 +34,10 @@ Beautiful inspired material themes for Alfred
 
 ![Material Blue](https://github.com/deerawan/alfred-material-themes/raw/master/images/material-blue.png)
 
+### Material Pink
+
+![Material Pink](https://github.com/deerawan/alfred-material-themes/raw/master/images/material-pink.png)
+
 ## Dark Themes
 
 ### Material Tosca Dark
